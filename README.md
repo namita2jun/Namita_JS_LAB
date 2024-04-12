@@ -1,0 +1,1 @@
+This Lab will show the Javascript quiz with 5 questions and result will be displayed. Every question contains 4 choices and the user will choose the correct choice.However, the percentage will be calculated according to the current answer given by user.
